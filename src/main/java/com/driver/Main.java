@@ -2,13 +2,13 @@ package com.driver;
 
 public class Main {
       static class Product {
-          private static int count=101;
-          int productId;
-          String name;
-          String category;
-          String description;
-          double price;
-          int storeId;
+//          private static int count=101;
+//          int productId;
+//          String name;
+//          String category;
+//          String description;
+//          double price;
+//          int storeId;
 
 //          // Constructor of product class
 //          public Product(String name, String category, String description, double price, int storeId){
